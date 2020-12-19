@@ -1,5 +1,5 @@
 # Pong-Glob
-High school x86 Assembly project - a simple Pong game for two players.
+High school x86 Assembly project - a Pong game for two players.
 
 ### Opening Screen:
 
